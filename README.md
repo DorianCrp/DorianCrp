@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Salut ! Je suis Dorian
 
-<!--
-**DorianCrp/DorianCrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Étudiant en ingénierie informatique à l'ESIEA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+### ✅ Maîtrisé
+- C / C++
+- Git & GitHub
+
+### 🚀 Intermédiaire
+- HTML / CSS / JavaScript
+- React
+- Node.js
+
+---
+
+## 📂 Projets récents
+
+- 🎨 [Portfolio](https://github.com/DorianCrp/Portfolio) — Mon site personnel
+- 🍽️ [Restaurant](https://github.com/DorianCrp/Restaurant) — Site vitrine pour un resto fictif
+- 📅 [Reservation](https://github.com/DorianCrp/Reservation) — Système de réservation
+- 🧑‍🤝‍🧑 [Relatly (anciennement Socially)](https://github.com/DorianCrp/socially) — Réseau social
+- ⚙️ [Fast API](https://github.com/DorianCrp/Fast-API) — API en Python
+- 📊 [Gestion de Projets](https://github.com/DorianCrp/Gestion-de-Projets) — Organisation et suivi de projet
+- 🤖 [Spring AI](https://github.com/DorianCrp/SpringAi) — Intégration d’IA avec Spring Boot
+
+---
+
+## 🔗 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dorian-cr%C3%A9pin-b65138303/)
+- 📧 doriancrepin@gmail.com
