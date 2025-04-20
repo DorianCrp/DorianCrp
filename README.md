@@ -11,6 +11,7 @@
 - Git & GitHub
 
 ### 🚀 Intermédiaire
+- Python
 - HTML / CSS / JavaScript
 - React
 - Node.js
