@@ -24,7 +24,7 @@
 - 🍽️ [Restaurant](https://github.com/DorianCrp/Restaurant) — Site vitrine pour un resto fictif
 - 📅 [Reservation](https://github.com/DorianCrp/Reservation) — Système de réservation
 - 🧑‍🤝‍🧑 [Relatly (anciennement Socially)](https://github.com/DorianCrp/socially) — Réseau social
-- ⚙️ [Fast API](https://github.com/DorianCrp/Fast-API) — API en Python
+- ⚙️ [Fast API](https://github.com/DorianCrp/FastAPI) — API en Python
 - 📊 [Gestion de Projets](https://github.com/DorianCrp/Gestion-de-Projets) — Organisation et suivi de projet
 - 🤖 [Spring AI](https://github.com/DorianCrp/SpringAi) — Intégration d’IA avec Spring Boot
 
